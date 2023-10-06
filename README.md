@@ -1,2 +1,2 @@
 # tests2
-tests
+Tässä repositoriossa on kuvitteellisen yrityksen tilaama nettisivusto harjoitustyönä.
